@@ -1,4 +1,4 @@
-# rwv-practice-app
+# rwv-events-app
 
 ## Project setup
 ```
