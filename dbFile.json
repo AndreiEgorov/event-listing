@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Bob"
+      },
+      "category": "animal welfare",
+      "organizer": "Bob",
+      "title": "Bob songs singing",
+      "description": "Yay felines!",
+      "location": "Bob Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Don"
+      },
+      "category": "animal welfare",
+      "organizer": "Don",
+      "title": "Paint Don Cluster",
+      "description": "Yay Don!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Bosh"
+      },
+      "category": "Bosh fair",
+      "organizer": "Bosh",
+      "title": "Fun with Bosh",
+      "description": "Yay Bosh!",
+      "location": "Bosh Town ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    }
+  ]
+}
