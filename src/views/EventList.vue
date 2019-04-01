@@ -2,6 +2,7 @@
     <div>
         <h1>Event List</h1>
         <EventCard></EventCard>
+        <Icon/>
     </div>
 
 
