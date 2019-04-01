@@ -1,5 +1,3 @@
-nformation. Now here’s EventShow.vue:
-
 <template>
     <div>
         <div class="event-header">
